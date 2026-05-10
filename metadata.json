@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Project Template",
+  "description": "A functional React application template built with Vite and Tailwind CSS.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
